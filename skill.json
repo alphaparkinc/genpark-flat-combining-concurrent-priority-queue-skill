@@ -1,0 +1,17 @@
+{
+  "name": "genpark-flat-combining-concurrent-priority-queue-skill",
+  "version": "1.0.0",
+  "description": "Flat combining concurrent priority queue minimizing cache-line bouncing by serializing batch requests via dedicated combiner threads.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "flat-combining",
+    "concurrent-heap",
+    "priority-queue",
+    "cache-coherence",
+    "synchronization"
+  ],
+  "dependencies": []
+}
